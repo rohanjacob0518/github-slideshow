@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Welcome to html</title>
+<style>
+h1 {color:Black;}
+ul {color:red;}
+</style>
+</head>
+<body bgcolor=#B4CFEC>
+<h1>First Web Page In Git Hub</h1><br><br>
+<h2>HTML LANGUAGE</h2>
+<hr>
+I am Rohan Jacob. I am studying in Saintgits College Of Engineering.<br>
+<br>
+My Area Of Interes Are:
+<ul>
+<li>Reading</li>
+<li>Gaming</li>
+<li>Traveling</li>
+<li>Coding</li>
+</ul><br><br>
+
+
+
+
+</body>
+</html>
